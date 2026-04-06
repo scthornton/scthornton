@@ -20,6 +20,12 @@ I publish datasets, break guardrails, and secure AI infrastructure. 25+ years ac
 - CI/CD pipelines for ML model security scanning
 - Custom guardrail tuning — drove attack success rate from 8.7% to 1.0%
 
+
+## Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-scthornton-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/scthornton)
+[![Blog](https://img.shields.io/badge/Blog-scthornton.github.io-red?style=flat&logo=github)](https://scthornton.github.io)
+
 ## Stats
 
 <p align="center">
@@ -30,8 +36,3 @@ I publish datasets, break guardrails, and secure AI infrastructure. 25+ years ac
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=scthornton&theme=radical&hide_border=true" />
 </p>
-
-## Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-scthornton-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/scthornton)
-[![Blog](https://img.shields.io/badge/Blog-scthornton.github.io-red?style=flat&logo=github)](https://scthornton.github.io)
