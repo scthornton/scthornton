@@ -18,7 +18,8 @@ I publish datasets, break guardrails, and secure AI infrastructure. 25+ years ac
 - Hardening RAG systems against retrieval-stage attacks
 - Building detection signatures for prompt injection variants
 - CI/CD pipelines for ML model security scanning
-- Custom guardrail tuning — drove attack success rate from 8.7% to 1.0%
+- Securing Agentic Systems/Tools
+- Researching new attack and defense methods for AI/ML/Agents/MCP/A2A
 
 
 ## Connect
