@@ -27,13 +27,3 @@ I publish datasets, break guardrails, and secure AI infrastructure. 25+ years ac
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-scthornton-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/scthornton)
 [![Blog](https://img.shields.io/badge/Blog-scthornton.github.io-red?style=flat&logo=github)](https://scthornton.github.io)
 
-## Stats
-
-<p align="center">
-  <img src="https://github-readme-stats-rho-ashen-53.vercel.app/api?username=scthornton&show_icons=true&theme=radical&hide_border=true&count_private=true" height="170" />
-  <img src="https://github-readme-stats-rho-ashen-53.vercel.app/api/top-langs/?username=scthornton&layout=compact&theme=radical&hide_border=true&langs_count=8" height="170" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=scthornton&theme=radical&hide_border=true" />
-</p>
